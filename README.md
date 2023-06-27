@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Duncansby Spotted Dalmatian Kennel<br><br>🚀 I’m currently learning TypeScript and NodeJS<br><br>❓ Ask me about anything related to MERN stack and related technologies<br><br> 
+🔭 I’m currently working on a Smart Home<br><br>🚀 I’m currently learning TypeScript and NodeJS<br><br>❓ Ask me about anything related to MERN stack and related technologies<br><br> 
 
 
 ## 🌐 Socials:
