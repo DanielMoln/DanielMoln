@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Molnar</h1>
 <h3 align="center">Software Engineer Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielmoln&label=Profile%20views&color=0e75b6&style=flat" alt="danielmoln" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=danielmoln" alt="danielmoln" /></a> </p>
 
 - 🔭 I’m currently working on **Computer Graphics projects**
