@@ -13,8 +13,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/d%C3%A1niel-moln%C3%A1r-580089248/](https://www.linkedin.com/in/d%C3%A1niel-moln%C3%A1r-580089248/)
 
-- ⚡ Fun fact **I am an engineer, nothing fun...**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dániel-molnár-580089248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dániel-molnár-580089248" height="30" width="40" /></a>
