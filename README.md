@@ -23,7 +23,6 @@
 #### Programming Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/-C-555555?style=flat&logo=c&logoColor=A8B9CC)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
