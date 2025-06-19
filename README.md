@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 🎓 I’m currently studying **Spring Boot**, **Computer Graphics**, **Compute-Intensive Tasks**, and **Real-Time Systems**
+- 🎓 I’m currently studying **.NET**, **Computer Graphics**, **Compute-Intensive Tasks**, and **Real-Time Systems**
 - 🧠 Interested in low-level programming, game engines, and high-performance applications
 - 📝 I share insights and updates on [LinkedIn](https://www.linkedin.com/in/d%C3%A1niel-moln%C3%A1r-580089248/)
 - 📫 Reach me at **molnard.work@gmail.com**
